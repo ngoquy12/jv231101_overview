@@ -1,0 +1,12 @@
+Trong HTML, các thẻ tiêu đề của trang sẽ là: h1, h2 ,.... h6
+  + Trong một trang web thì sẽ có duy nhất một thẻ h1
+  + Thẻ h1 sẽ có kích thuớc lớn nhất
+  + Từ h1 đến h6 thì kích thước sẽ giảm dần
+
+Một số phím tắt trong VS code
+  - Copy code:
+    + Cách 1: Bôi đen dòng code và gõ tổ hợp: ctrl + c và dán: ctrl + v 
+    + Cách 2: Focus chuột vào dòng cần copy và gõ tổ hợp phím: ctrl + c + v
+    + Cách 3: Gõ tổ hợp phím: alt + shift + mũi tên lên / mũi tên xuống
+  - Reload lại window:
+    + ctrl + shift + p : gõ nội dung là: "reload Window" + enter
